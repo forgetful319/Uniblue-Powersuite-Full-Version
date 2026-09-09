@@ -238,3 +238,6 @@ This repository serves as the official landing page for Uniblue Powersuite. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Uniblue Powersuite today!**
+
+---
+**Last updated:** 2026-09-09 13:16:00 UTC
