@@ -240,4 +240,4 @@ This repository serves as the official landing page for Uniblue Powersuite. The 
 **Get the most recent version of Uniblue Powersuite today!**
 
 ---
-**Last updated:** 2026-10-17 17:38:36 UTC
+**Last updated:** 2026-10-17 19:52:30 UTC
